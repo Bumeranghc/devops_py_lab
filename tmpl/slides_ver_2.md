@@ -3,7 +3,7 @@
 ::: {.column }
 * вендор: {vendor}
 * модель: {model}
-* артикул: {product_id}
+* артикул: {productid}
 * цена: {price}
 :::
 ::: {.column }
