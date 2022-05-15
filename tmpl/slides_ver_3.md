@@ -1,12 +1,12 @@
 ## {model}
 :::::::::::::: {.columns}
 ::: {.column }
+* категория: {category}
 * вендор: {vendor}
 * модель: {model}
 * артикул: {product_id}
-* цена: {price}
 * окончательная цена: ${discounted_price}
-* скидка по акции: ${discout}%
+* скидка по акции: {discount}%
 :::
 ::: {.column }
 

@@ -9,7 +9,7 @@ def get_categories(*args, **kwargs):
 
 def get_products(*args, **kwargs):
     # args and kwargs are for future project development
-    # исправьте вызов .split() чтобы получился 
+    # исправлен вызов .split(), чтобы получился 
     # список имен столбцов
     columns="product_id;vendor;model;price;category".split(sep=";")
     yield dict(zip(columns,(13883932,"StarWind","Мини-печь smo2003",5597,5)))
