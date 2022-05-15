@@ -1,5 +1,4 @@
 # import data_source_ver_N as ds
-from unicodedata import category
 import markdown2output_ver_1 as m2o
 import data_source_ver_2 as ds
 
